@@ -1,5 +1,5 @@
-# Minecraft Clone
-Minecraft clone created in Unity to learn about procedural generation and mesh manipulation.
+# UnityCraft
+A Minecraft clone created in Unity to learn about procedural generation and mesh manipulation.
 
 ## Features
 
